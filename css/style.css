@@ -1,0 +1,25 @@
+body { 
+    background-color: #BD7E3E;
+    text-align: center;
+}
+
+#fc    
+     {
+      border-style:solid;
+      border-color:#689F38
+      border : 1px 
+      border-radius: 80px;
+      padding : 5px;
+      width : 100px;
+    }
+
+#wt 
+{
+    border-style:solid;
+    border-color:#689F38
+    border: 1px 
+    border-radius: 80px;
+    padding: 5px;
+    width: 100px;
+}
+
